@@ -13,17 +13,17 @@ my personal colorscheme
 Use [vim-plug](https://github.com/junegunn/vim-plug) or any other plugin manager of your choice:
 
 ```viml
-Plug 'pablopunk/sick.vim'
+Plug 'jsebaltazar/vim-luntian'
 ```
 
 And then set the colorscheme. The default is dark but you can also use the light version:
 
 ```viml
-colorscheme sick
+colorscheme luntian
 ```
 
 or
 
 ```viml
-colorscheme sick-light
+colorscheme luntian-light
 ```

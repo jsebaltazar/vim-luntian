@@ -1,14 +1,17 @@
-# vim-luntian 
+# vim-luntian
+My personal vim color scheme. Use your plugin installer to install. I used Vundle.
 
-Generated with [vimcolors.org](https://vimcolors.org) 
-
+### luntian (dark)
 ![screenshot](https://github.com/jsebaltazar/vim-master/blob/master/luntian.png)
+
+### luntian-light (light)
+![screenshot](https://github.com/jsebaltazar/vim-master/blob/master/luntian-light.png)
 
 ## Install
 
-
-```Vundle Install
-Plug 'jsebaltazar/vim-luntian'
+```viml
+```Install
+Plugin 'jsebaltazar/vim-luntian'
 ```
 
 And then set the colorscheme. The default is dark but you can also use the light version:

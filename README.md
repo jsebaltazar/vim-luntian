@@ -1,16 +1,13 @@
 # vim-luntian 
 
-[Sick colors]Generated with [vimcolors.org](https://vimcolors.org) and screenshots with [hyper-sick](https://pablopunk.com/hyper-sick).
+Generated with [vimcolors.org](https://vimcolors.org) 
 
-![screenshot](https://github.com/pablopunk/art/raw/master/sick-colors/vim.png)
-
-![screenshot](https://github.com/pablopunk/art/raw/master/sick-colors/vim-light.png)
+![screenshot](https://github.com/jsebaltazar/vim-master/blob/master/luntian.png)
 
 ## Install
 
-Use [vim-plug](https://github.com/junegunn/vim-plug) or any other plugin manager of your choice:
 
-```viml
+```Vundle Install
 Plug 'jsebaltazar/vim-luntian'
 ```
 

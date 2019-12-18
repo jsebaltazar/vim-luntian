@@ -1,3 +1,4 @@
+"jsebaltazar/vim-luntian"
 " Vim color file - luntian_light
 set background=light
 if version > 580
